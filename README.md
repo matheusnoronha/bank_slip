@@ -29,15 +29,13 @@ yarn start:dev
 ```
 
 ## Rodando a aplicação
-
-
-# development
+### development
 
 ```bash
 yarn start:dev
 ```
 
-# production
+### production
 ```bash
 yarn start:prod
 ```
@@ -46,7 +44,7 @@ yarn start:prod
 
 ### Swagger
 
-# local
+#### local
 
 ```bash
 http://localhost:8080
