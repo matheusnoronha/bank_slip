@@ -44,7 +44,7 @@ $ yarn start:prod
 
 ```bash
 # local
-$ http://localhost:8080
+http://localhost:8080
 ```
 
 ## Rodando os Testes
