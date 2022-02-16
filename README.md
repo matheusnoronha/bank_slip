@@ -9,41 +9,46 @@ Api para validação de boletos bancarios.
 Caso não tenha o yarn instalado
 
 ```bash
-$ npm install --global yarn
+npm install --global yarn
 ```
 
 ```bash
-$ yarn install
+yarn install
 ```
 
 ### Configurar o `.env`:
 
 ```bash
-$ cp .env.example .env
+cp .env.example .env
 ```
 
 ### Rodar a aplicação:
 
 ```bash
-$ yarn start:dev
+yarn start:dev
 ```
 
 ## Rodando a aplicação
 
-```bash
+
 # development
-$ yarn start:dev
+
+```bash
+yarn start:dev
+```
 
 # production
-$ yarn start:prod
+```bash
+yarn start:prod
 ```
 
 ## Documentação
 
 ### Swagger
 
-```bash
 # local
+
+```bash
 http://localhost:8080
 ```
 
@@ -52,5 +57,5 @@ http://localhost:8080
 ### Unitário
 
 ```bash
-$ yarn test
+yarn test
 ```
